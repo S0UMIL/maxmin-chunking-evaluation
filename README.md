@@ -15,4 +15,4 @@ The notebooks include the original experimental workflow, including debugging, i
 
 ## Note
 
-The notebooks are research artifacts and may contain exploratory cells. Some experiments require datasets, saved embeddings, or other artifacts to run.
+## The notebooks are research artifacts and may contain exploratory cells. Some experiments require datasets, saved embeddings, or other artifacts to run.
